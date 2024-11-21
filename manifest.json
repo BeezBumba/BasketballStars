@@ -1,1 +1,16 @@
+{
+  "name": "Basketball Stars",
+  "short_name": "Basketball Stars",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/basketball-stars.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ]
+}
 
